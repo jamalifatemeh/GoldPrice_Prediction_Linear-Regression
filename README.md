@@ -1,7 +1,5 @@
 # GoldPrice_Prediction_Linear-Regression
 
-# Gold Price Prediction using Linear Regression
-
 This project uses **Linear Regression** to predict gold's opening price based on historical intraday trading data. The analysis spans from **January 16, 2023, to September 18, 2023** and involves data cleaning, feature engineering, model training, and evaluation.
 
 ---
